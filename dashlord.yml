@@ -428,3 +428,8 @@ urls:
     repositories:
       - betagouv/metiers-numeriques
       - betagouv/metiers-numeriques-pep
+  - url: https://territoiresentransitions.fr
+    category: startup
+    betaId: territoires-en-transitions
+    repositories:
+      - betagouv/territoires-en-transitions
